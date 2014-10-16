@@ -1,3 +1,5 @@
+require 'open-uri'
+require "itcal/client"
 require "itcal/version"
 
 module Itcal
